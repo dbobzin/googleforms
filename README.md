@@ -1,9 +1,9 @@
 # googleforms
 google forms for smarttwigs 
 
-#cd frontend
-#npm install
-#npm start
+##cd frontend
+##npm install
+##npm start
 
 form doesn't do anything right now because I changed it from:
 This example
